@@ -99,7 +99,7 @@ import java.sql.*;
                 String dbPath = dbdir + "/" + dbName;   // create Path
                 File f2 = new File(dbPath);          //Call File class
                 if (!f2.exists()) {                //If the path doesn't exist
-                    InputStream istream = Menuformrun.class.getResourceAsStream("database/" + dbName);  //Set the path
+                    InputStream istream = Loginfrm.class.getResourceAsStream("database/" + dbName);  //Set the path
                     try {
                         Files.copy(istream, f2.toPath(), StandardCopyOption.REPLACE_EXISTING);
                     } catch (IIOException e) {
