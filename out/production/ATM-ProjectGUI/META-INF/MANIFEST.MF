@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: jackcess-2.0.4.jar commons-lang-2.6.jar hsqldb.jar jackces
+ s-2.0.4.jar commons-lang-2.6.jar ucanaccess-2.0.8.jar commons-logging
+ -1.1.1.jar hsqldb.jar kotlin-stdlib.jar kotlin-reflect.jar kotlin-tes
+ t.jar kotlin-stdlib-jdk7.jar kotlin-stdlib-jdk8.jar commons-logging-1
+ .1.1.jar ucanaccess-2.0.8.jar
+Main-Class: Openapp
+
