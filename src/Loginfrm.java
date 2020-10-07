@@ -1,6 +1,6 @@
 
 /*
-@Author Gilbert,Alice,Neba
+@Author Gilbertsb
 */
 import javax.imageio.IIOException;
 import javax.swing.*;
