@@ -1,5 +1,5 @@
 /*
-@Author Gilbert,Alice,Neba
+@Author Gilbertsb
  */
 //importing libraries
 import javax.swing.*;
