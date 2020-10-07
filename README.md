@@ -1,6 +1,6 @@
 # final-project-runnable-jars-
 
-Author: Gilbert,Neba and Alice
+Author: Gilbert
 
 
 NB: Find runnable jar and its shortcut in ".....out\artifacts\ATM_ProjectGUI_jar"
